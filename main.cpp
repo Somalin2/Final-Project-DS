@@ -5,6 +5,7 @@
 //  Created by Chhin Somalin on 17/8/22.
 //
 
+
 #include <iostream>
 using namespace std;
 
@@ -63,4 +64,5 @@ int main()
     random.printData();
     return 0;
 }
+
 
